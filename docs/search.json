@@ -1,0 +1,667 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zainab",
+    "section": "",
+    "text": "Assistent Professor at  KBN University. \n\n\n\n\n📰 News & Updates\n\n\n\n\nNov 2025: Taught “Communicative English and Academic Writing Skills” (Certified Course).\n\n\nNov 2025: Organizing Member – Student Induction Programme (SIP) for MA Students.\n\n\nOct 2025:Published a paper: Living in Third Space: A Study of Diasporic Identity in Monika Ali’s Brick Lane."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Akbar Ali",
+    "section": "",
+    "text": "M.Tech in Computer Science and Engineering\nAliah university , kol | july 2019-sep 2021\nB.Tech in Computer Science and Engineering\nAliah university , kol | july 2015-july 2019"
+  },
+  {
+    "objectID": "index.html#publication",
+    "href": "index.html#publication",
+    "title": "Akbar Ali",
+    "section": "",
+    "text": "Descriptive Predictive Model for Parkinson’s Disease Analysis"
+  },
+  {
+    "objectID": "index.html#awards",
+    "href": "index.html#awards",
+    "title": "Akbar Ali",
+    "section": "",
+    "text": "1st division scholarship in 10th.\naward in chemistary for excelent student.\nObtained Rank 1 in the university final exam in B.tech 2019.\nObtained Rank 2 in the university final exam in M.tech 2021.\nObtained rank 1 AuAT2019\nObtained rank 64 in AUAT2015\nWBJEE AND AIEEE Qualified in 2015."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Akbar! I’m a third-year PhD student at the Indian Institute of Technology Gandhinagar (IITGN), India, studying Computer Vision, Deep Generative Models, and Hyperspectral Imaging in the Department of Computer Science and Engineering.\nBefore joining IITGN, I completed my Bachelor’s and Master’s degrees in Computer Science and Engineering at Aliah University.\nIn between, I worked as a Project Associate at IIT Ropar.\nAs an enthusiastic learner, I am always eager to take up challenging tasks and push my limits to achieve excellence. My academic journey has given me a strong foundation in computer science concepts, and I have gained practical experience through various projects."
+  },
+  {
+    "objectID": "index.html#project",
+    "href": "index.html#project",
+    "title": "Akbar Ali",
+    "section": "",
+    "text": "Prediction of parkinson disease.\nSmart home automation"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Setting Up Development Environment\n\n\n\n\n\n\n\nSetup\n\n\n\n\n\n\n\n\n\n\n\nApr 25, 2023\n\n\nKhush Shah\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Conference.html",
+    "href": "Conference.html",
+    "title": "Zainab",
+    "section": "",
+    "text": "Living in Third Space: A Study of Diasporic Identity in Monika Ali’s Brick Lane — Presented in October 2025."
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Workshop",
+    "section": "",
+    "text": "Participated in National Seminar on “Preparation & Publication of Research Articles” organized by Department of Computer Science and Engineering, Aliah University, Kolkata on 18th March 2019.\nParticipated in National Seminar on “Mathematical Modelling and its Application in Natural and Engineering Science (NSMMANES- 2019)” organized by Department of Mathematics and Statistics, Aliah University, Kolkata on 25th March 2019."
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Zainab",
+    "section": "",
+    "text": "Assistant Professor, Dept. of English — KBN University (Nov 2022 — present)\nPart-time Content Writer, Hybritic Pvt Ltd (Jan 2024 — May 2024) — wrote web content and informational pages.\nSubject Matter Expert, SandSpace Technologies (June 2020 — Jan 2022) — research writing, academic content development, global team coordination."
+  },
+  {
+    "objectID": "Certification.html",
+    "href": "Certification.html",
+    "title": "image",
+    "section": "",
+    "text": "• Certified as “Elite” in the course “PHP WITH MYSQL” by WebTek Labs Pvt.Ltd. Jun-aug2018. • Certified as “Elite” in the course “Natural Language Processing(NLP) inpython” byudemy Online Certification Courses during Jan-Mar 2020. • Certified as “Solving International Quention” in “chegg expert learningplatform” by Chegg india Pvt. Ltd. Serial No. cert_dhg104nq. • Certified as “Q&A” in “chegg expert learning platform” by Chegg india Pvt.Ltd. Serial No. cert_cqbfzn14. • Certified as “Mastering the guidline” in “chegg expert learning platform” byChegg india Pvt. Ltd. Serial No. cert_172nvmdz. • Certified as “Elite” in the course “DCA” by OCSM Pvt. Ltd. Registration No.05/DCA/MZP-42/380/27717"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Zainab",
+    "section": "",
+    "text": "Welcome to my gallery! Here are some highlights from my research, projects, and conferences.\n\nFun with Friends\n\n\n\n\n\nkbn\n\n\n\n\n\nkbn"
+  },
+  {
+    "objectID": "posts/firs.html",
+    "href": "posts/firs.html",
+    "title": "Setting Up Development Environment",
+    "section": "",
+    "text": "This is my personal website made with quarto and github pages.\nMy learnings/tasks while working on it:\nFor Windows:-\n\nInstall VS-Code\nInstall Git and connect/configure with GitHub along with VS-Code\nInstall Quarto in the system and Quarto extension in VS-Code\nCreate a new repository in GitHub\nCreate a new project in Quarto\nCreate proper “_quarto.yml”, “index.qmd” files\nRender the files and push to GitHub\nConfigure GitHub pages to publish the website\n\nFor Linux:-\n\nInstall “Windows Subsystem for Linux” (WSL) from Microsoft Store\nInstall “Ubuntu” as distributor\nIf “WslRegisterDistribution failed with error: 0x80370114” error comes, refer https://www.cyberithub.com/solved-wslregisterdistribution-failed-with-error-0x80370114\nInstall Quarto in the Linux system and Quarto extension in VS-Code\nRun command wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.340/quarto-1.3.340-linux-amd64.deb in the Linux command Line Interface (CLI)\nRun command sudo dpkg -i quarto-1.3.340-linux-amd64.deb in the Linux Command Line Interface (CLI)\nRun command sudo apt-get install -f in the Linux command Line Interface (CLI)\nRun command quarto in the Linux command Line Interface (CLI) to check if Quarto is installed properly\nInstall Anaconda in the Linux system\nRun command wget https://repo.anaconda.com/archive/Anaconda3-2023.03-1-Linux-x86_64.sh in the Linux command Line Interface (CLI)\nRun command bash Anaconda3-2023.03-1-Linux-x86_64.sh in the Linux command Line Interface (CLI)\nRun command ipython in the Linux command Line Interface (CLI) to check if Anaconda is installed properly\nConnect/configure with GitHub\nGo to https://github.com/settings/tokens to generate a new token and save it. It’ll be useful later\nClone the repository\nRun command git clone https://github.com/Khush24Shah/Khush24Shah.github.io in the Linux command Line Interface (CLI)\nEnter “username” and the “token” generated in the previous step"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Setting Up Development Environment\n\n\n\n\n\n\nSetup.\n\n\n\n\n\n\n\n\n\nJul 12, 2023\n\n\nAkbar Ali\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blogs/Myfirst_blog.html",
+    "href": "blogs/Myfirst_blog.html",
+    "title": "Setting Up Development Environment",
+    "section": "",
+    "text": "This is my personal website made with quarto and github pages.\nMy learnings/tasks while working on it:\nFor Windows:-\n\nInstall VS-Code\nInstall Git and connect/configure with GitHub along with VS-Code\nInstall Quarto in the system and Quarto extension in VS-Code\nCreate a new repository in GitHub\nCreate a new project in Quarto\nCreate proper “_quarto.yml”, “index.qmd” files\nRender the files and push to GitHub\nConfigure GitHub pages to publish the website\n\nFor Linux:-\n\nInstall “Windows Subsystem for Linux” (WSL) from Microsoft Store\nInstall “Ubuntu” as distributor\nIf “WslRegisterDistribution failed with error: 0x80370114” error comes, refer https://www.cyberithub.com/solved-wslregisterdistribution-failed-with-error-0x80370114\nInstall Quarto in the Linux system and Quarto extension in VS-Code\nRun command wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.3.340/quarto-1.3.340-linux-amd64.deb in the Linux command Line Interface (CLI)\nRun command sudo dpkg -i quarto-1.3.340-linux-amd64.deb in the Linux Command Line Interface (CLI)\nRun command sudo apt-get install -f in the Linux command Line Interface (CLI)\nRun command quarto in the Linux command Line Interface (CLI) to check if Quarto is installed properly\nInstall Anaconda in the Linux system\nRun command wget https://repo.anaconda.com/archive/Anaconda3-2023.03-1-Linux-x86_64.sh in the Linux command Line Interface (CLI)\nRun command bash Anaconda3-2023.03-1-Linux-x86_64.sh in the Linux command Line Interface (CLI)\nRun command ipython in the Linux command Line Interface (CLI) to check if Anaconda is installed properly\nConnect/configure with GitHub\nGo to https://github.com/settings/tokens to generate a new token and save it. It’ll be useful later\nClone the repository\nRun command git clone https://github.com/Khush24Shah/Khush24Shah.github.io in the Linux command Line Interface (CLI)\nEnter “username” and the “token” generated in the previous step"
+  },
+  {
+    "objectID": "blogs/MLLosses.html",
+    "href": "blogs/MLLosses.html",
+    "title": "Types of Losses and Optimisation.",
+    "section": "",
+    "text": "Loss or Objective Function is a measure of the model’s performance. It is optimised during the training to improve model’s performance.\nBroadly speaking, loss functions can be grouped into two major categories concerning the types of problems we come across in the real world: CLASSIFICATION and REGRESSION. In CLASSIFICATION problems, our task is to predict the respective probabilities of all classes the problem is dealing with. When it comes to REGRESSION, our task is to predict the continuous value concerning a given set of independent features to the learning algorithm."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#mean-absolute-error-loss",
+    "href": "blogs/MLLosses.html#mean-absolute-error-loss",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Mean Absolute Error Loss",
+    "text": "Mean Absolute Error Loss\nWe define MAE loss function as the average of absolute differences between the actual and the predicted value. It’s the second most commonly used regression loss function. It measures the average magnitude of errors in a set of predictions, without considering their directions.\n\\[\\mathrm{MAE}(\\boldsymbol{y}, \\boldsymbol{\\hat{y}}) = \\frac{1}{n}\\sum_{i=1}^{n}|y_i - \\hat{y_i}|\\]\nwhere \\(y_i\\) is the actual value and \\(\\hat{y_i}\\) is the predicted value.\nThe corresponding cost function is the mean of these absolute errors (MAE). It is also known as the \\(\\ell_1\\) loss function."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#mean-squared-error-loss",
+    "href": "blogs/MLLosses.html#mean-squared-error-loss",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Mean Squared Error Loss",
+    "text": "Mean Squared Error Loss\nWe define MSE loss function as the average of squared differences between the actual and the predicted value. It’s the most commonly used regression loss function.\n\\[\\mathrm{MSE}(\\boldsymbol{y}, \\boldsymbol{\\hat{y}}) = \\frac{1}{n}\\sum_{i=1}^{n}(y_i - \\hat{y_i})^2\\]\nwhere \\(y_i\\) is the actual value and \\(\\hat{y_i}\\) is the predicted value.\nThe corresponding cost function is the mean of these squared errors (MSE). It is also known as the \\(\\ell_2\\) loss function. The MSE loss function penalizes the model for making large errors by squaring them."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#huber-loss",
+    "href": "blogs/MLLosses.html#huber-loss",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Huber Loss",
+    "text": "Huber Loss\nWe define Huber loss function as the combination of MSE and MAE. It’s less sensitive to outliers than the MSE loss function and is differentiable at 0.\n\\[\\mathrm{Huber}(\\boldsymbol{y}, \\boldsymbol{\\hat{y}} ; \\delta) = \\frac{1}{n}\\sum_{i=1}^{n}\\mathrm{L}_{\\delta}(y_i - \\hat{y_i})\\]\n\\[\\mathrm{L}_{\\delta}(y_i - \\hat{y_i}) = \\begin{cases} \\frac{1}{2}(y_i - \\hat{y_i})^2 & \\text{for } |y_i - \\hat{y_i}| \\leq \\delta \\\\ \\delta|y_i - \\hat{y_i}| - \\frac{1}{2}\\delta^2 & \\mathrm{otherwise} \\end{cases}\\]\nwhere \\(y_i\\) is the actual value and \\(\\hat{y_i}\\) is the predicted value.\nThe corresponding cost function is the mean of these Huber errors. The Huber loss function is more robust to outliers compared to the MSE loss function."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#example",
+    "href": "blogs/MLLosses.html#example",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Example",
+    "text": "Example\nLet’s take a simple example to understand the above loss functions.\nSay for some data, the actual value is 100 and the predicted value is 110. The loss function for the above loss functions will be:\n\\[\\begin{align*}\n\\mathrm{MAE} &= |100 - 110| &= 10 \\\\\n\\mathrm{MSE} &= (100 - 110)^2 &= 100 \\\\\n\\mathrm{Huber}(\\delta = 5) &= \\mathrm{L}_{\\delta}(100 - 110)\\\\\n&= 5 \\times |100 - 110| - \\frac{1}{2}\\times5^2 = 50 - 12.5 &= 37.5 \\\\\n\\end{align*}\\]\nHere, we can see that the MAE loss function is the least sensitive to outliers. The MSE loss function is the most sensitive to outliers. The Huber loss function is less sensitive to outliers than the MSE loss function and is differentiable at 0."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#implementation",
+    "href": "blogs/MLLosses.html#implementation",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Implementation",
+    "text": "Implementation\n\nImporting Libraries\n\nimport plotly.graph_objects as go\nimport torch\nfrom torch.optim import Adam\n\nimport sklearn.metrics as metrics\n\n\n\nDefining the loss functions\n\n# MAE loss\ndef mae(y, y_pred, extra=None):\n    assert y.shape == y_pred.shape\n    val = torch.abs(y - y_pred)\n    return torch.mean(val)\n\n# MSE loss\ndef mse(y, y_pred, extra=None):\n    assert y.shape == y_pred.shape\n    val = (y - y_pred) ** 2\n    return torch.mean(val)\n\n# Huber loss\ndef huber(y, y_pred, extra=None):\n    assert y.shape == y_pred.shape\n    d = extra if extra else 1\n    diff = torch.abs(y - y_pred)\n    val = torch.where(diff &lt; d, 0.5 * diff ** 2, d * diff - 0.5 * d ** 2)\n    return torch.mean(val)\n\n# Binary Cross-Entropy loss\ndef bce(y, y_pred, extra=None):\n    assert y.shape == y_pred.shape\n    val = -y * torch.log(y_pred) - (1 - y) * torch.log(1 - y_pred)\n    return torch.mean(val)\n\n# Focal loss\ndef focal(y, y_pred, extra=None):\n    assert y.shape == y_pred.shape\n    g = extra if extra else 2\n    case_1 = -y * torch.log(y_pred) * (1 - y_pred) ** g\n    case_0 = -(1 - y) * torch.log(1 - y_pred) * y_pred ** g\n    val = case_1 + case_0\n    return torch.mean(val)\n\n\nloss_func = {\"mae\": mae, \"mse\": mse, \"huber\": huber, \"bce\": bce, \"focal\": focal}\n\n\n\nTraining Function\n\n# Train function\ndef train(x, y, w, loss_type, lr=0.01, epochs=100, extra=False):\n    if loss_type in (\"mae\", \"mse\", \"huber\"): # regression\n        classes = False\n        res = \"RMSE\"\n        res_func = metrics.mean_squared_error\n    elif loss_type in (\"bce\", \"focal\"): # classification\n        classes = True\n        res = \"Accuracy\"\n        res_func = metrics.accuracy_score\n    else:\n        raise ValueError(\"Unknown loss function\")\n    \n    result = []\n    loss_fn = loss_func[loss_type] # get loss function\n\n    opt = Adam([w], lr=lr)\n\n    for i in range(epochs):\n        y_pred = torch.matmul(x, w)\n        if classes: # classification\n            y_pred = torch.sigmoid(y_pred)\n\n        loss = loss_fn(y, y_pred, extra)\n        loss.backward()\n\n        opt.step()\n        opt.zero_grad()\n\n        if classes: # classification\n            y_pred = torch.where(y_pred &gt; 0.5, 1.0, 0.0) # threshold\n            result.append(res_func(y, y_pred.detach()))\n        else: # regression\n            result.append(res_func(y, y_pred.detach(), squared=False))\n\n        if i % (epochs // 10) == 0:\n            print(f'Epoch {i}, loss {loss:.4f}, {res} {result[-1]:.4f}')\n\n    return result, y_pred.detach()\n\n\n\nGenerating the data for regression\n\nx = torch.rand(500, 1)\ny = 2 * x + 3 + torch.randn(500, 1) * 0.5\n\nx = torch.concatenate([x, torch.ones((500, 1))], axis=1)\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=x[:, 0], y=y[:, 0], mode='markers', name='data'))\nfig.update_layout(title='Data', xaxis_title='x', yaxis_title='y')\nfig.show()\n\n\n                                                \n\n\n\n\nMAE Loss\n\nTraining\n\nw = torch.randn(2, 1, requires_grad=True)\n\nlr = 0.1\nloss_fn = \"mae\"\n\n\nresult, y_pred = train(x, y, w, loss_fn, lr=lr, epochs=200)\n\nEpoch 0, loss 5.0595, RMSE 5.1217\nEpoch 20, loss 2.1006, RMSE 2.1534\nEpoch 40, loss 0.5658, RMSE 0.7100\nEpoch 60, loss 0.4173, RMSE 0.5248\nEpoch 80, loss 0.3829, RMSE 0.4829\nEpoch 100, loss 0.3719, RMSE 0.4692\nEpoch 120, loss 0.3690, RMSE 0.4648\nEpoch 140, loss 0.3684, RMSE 0.4642\nEpoch 160, loss 0.3684, RMSE 0.4643\nEpoch 180, loss 0.3684, RMSE 0.4642\n\n\n\n\nPlot the loss\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=torch.arange(len(result)), y=result, mode='lines', name='loss'))\nfig.update_layout(title='Loss', xaxis_title='epoch', yaxis_title='loss')\nfig.show()\n\n\n                                                \n\n\n\n\nPlot the data with the regression line\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=x[:, 0], y=y.ravel(), mode='markers', name='data'))\nfig.add_trace(go.Scatter(x=x[:, 0], y=2 * x[:, 0] + 3, mode='lines', name='true line', line=dict(color='green')))\nfig.add_trace(go.Scatter(x=x[:, 0], y=y_pred[:, 0], mode='lines', name='regression line', line=dict(color='red')))\nfig.show()\n\n\n                                                \n\n\n\n\n\nMSE Loss\n\nTraining\n\nw = torch.randn(2, 1, requires_grad=True)\n\nlr = 0.1\nloss_fn = \"mse\"\n\n\nresult, y_pred = train(x, y, w, \"mse\", lr=lr, epochs=200)\n\nEpoch 0, loss 33.1759, RMSE 5.7599\nEpoch 20, loss 8.3986, RMSE 2.8980\nEpoch 40, loss 0.8111, RMSE 0.9006\nEpoch 60, loss 0.2259, RMSE 0.4752\nEpoch 80, loss 0.2344, RMSE 0.4842\nEpoch 100, loss 0.2175, RMSE 0.4664\nEpoch 120, loss 0.2172, RMSE 0.4660\nEpoch 140, loss 0.2166, RMSE 0.4654\nEpoch 160, loss 0.2163, RMSE 0.4651\nEpoch 180, loss 0.2161, RMSE 0.4648\n\n\n\n\nPlot the loss\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=torch.arange(len(result)), y=result, mode='lines', name='loss'))\nfig.update_layout(title='Loss', xaxis_title='epoch', yaxis_title='loss')\nfig.show()\n\n\n                                                \n\n\n\n\nPlot the data with the regression line\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=x[:, 0], y=y.ravel(), mode='markers', name='data'))\nfig.add_trace(go.Scatter(x=x[:, 0], y=2 * x[:, 0] + 3, mode='lines', name='true line', line=dict(color='green')))\nfig.add_trace(go.Scatter(x=x[:, 0], y=y_pred[:, 0], mode='lines', name='regression line', line=dict(color='red')))\nfig.update_layout(title='Data', xaxis_title='x', yaxis_title='y')\nfig.show()\n\n\n                                                \n\n\n\n\n\nHuber Loss\n\nTraining\n\nw = torch.randn(2, 1, requires_grad=True)\n\nlr = 0.1\nloss_fn = \"huber\"\n\n\nresult, y_pred = train(x, y, w, loss_fn, lr=lr, epochs=200, extra=0.5)\n\nEpoch 0, loss 0.9997, RMSE 2.3211\nEpoch 20, loss 0.1458, RMSE 0.6103\nEpoch 40, loss 0.1058, RMSE 0.4996\nEpoch 60, loss 0.0954, RMSE 0.4702\nEpoch 80, loss 0.0935, RMSE 0.4641\nEpoch 100, loss 0.0935, RMSE 0.4640\nEpoch 120, loss 0.0934, RMSE 0.4639\nEpoch 140, loss 0.0934, RMSE 0.4639\nEpoch 160, loss 0.0934, RMSE 0.4639\nEpoch 180, loss 0.0934, RMSE 0.4639\n\n\n\n\nPlot the loss\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=torch.arange(len(result)), y=result, mode='lines', name='loss'))\nfig.update_layout(title='Loss', xaxis_title='epoch', yaxis_title='loss')\nfig.show()\n\n\n                                                \n\n\n\n\nPlot the data with the regression line\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=x[:, 0], y=y.ravel(), mode='markers', name='data'))\nfig.add_trace(go.Scatter(x=x[:, 0], y=2 * x[:, 0] + 3, mode='lines', name='true line', line=dict(color='green')))\nfig.add_trace(go.Scatter(x=x[:, 0], y=y_pred[:, 0], mode='lines', name='regression line', line=dict(color='red')))\nfig.show()"
+  },
+  {
+    "objectID": "blogs/MLLosses.html#binary-cross-entropy-loss",
+    "href": "blogs/MLLosses.html#binary-cross-entropy-loss",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Binary Cross-Entropy Loss",
+    "text": "Binary Cross-Entropy Loss\nThis is the most common loss function used in classification problems. The binary cross-entropy loss decreases as the predicted probability converges to the actual label. It measures the performance of a classification model whose predicted output is a probability value between 0 and 1.\n\\[\\mathrm{L}(\\boldsymbol{y}, \\boldsymbol{\\hat{y}}) = \\begin{cases} -\\log(\\hat{y_i}) & \\text{if } y_i = 1 \\\\ -\\log(1-\\hat{y_i}) & \\text{if } y_i = 0 \\end{cases}\\]\n\\[\\mathrm{L}(\\boldsymbol{y}, \\boldsymbol{\\hat{y}}) = - \\dfrac{1}{m} \\sum_{i=1}^{m} y_i \\log(\\hat{y_i}) + (1-y_i) \\log(1-\\hat{y_i})\\]\nwhere \\(y_i\\) is the actual value and \\(\\hat{y_i}\\) is the predicted value."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#focal-loss",
+    "href": "blogs/MLLosses.html#focal-loss",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Focal Loss",
+    "text": "Focal Loss\nWe define Focal loss function as the combination of Binary Cross-Entropy Loss and a modulating factor. The modulating factor \\(\\gamma\\) is used to reduce the relative loss for well-classified examples and put more focus on hard, misclassified examples. It’s less sensitive to outliers than the Binary Cross-Entropy Loss function and is differentiable at 0.\n\\[\\mathrm{FL}(\\boldsymbol{y}, \\boldsymbol{\\hat{y}}) = \\begin{cases} -(1-\\hat{y_i})^{\\gamma}\\log(\\hat{y_i}) & \\text{if } y_i = 1 \\\\ -(\\hat{y_i})^{\\gamma}\\log(1-\\hat{y_i}) & \\text{if } y_i = 0 \\end{cases}\\]\n\\[\\mathrm{FL}(\\boldsymbol{y}, \\boldsymbol{\\hat{y}}) = - \\dfrac{1}{m} \\sum_{i=1}^{m} y_i (1 - \\hat{y_i})^{\\gamma} \\log(\\hat{y_i}) + (1-y_i) (\\hat{y_i})^{\\gamma} \\log(1-\\hat{y_i})\\]\nwhere \\(y_i\\) is the actual label and \\(\\hat{y_i}\\) is the predicted probability of the label."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#example-1",
+    "href": "blogs/MLLosses.html#example-1",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Example",
+    "text": "Example\nLet’s take a simple example to understand the above loss functions.\nSay for some data, the actual label is 1 and the predicted probability of the label is 0.85. The loss function for the above loss functions will be:\n\\[\\begin{align*}\n\\mathrm{BCE} &= -\\log(0.85) &\\approx 0.162 \\\\\n\\mathrm{FL}(\\gamma = 2) &= -(1-0.85)^2\\log(0.85) &\\approx 0.004 \\\\\n\\end{align*}\\]\nAnd for some data, the actual label is 1 and the predicted probability of the label is 0.55. The loss function for the above loss functions will be:\n\\[\\begin{align*}\n\\mathrm{BCE} &= -\\log(0.55) &\\approx 0.598 \\\\\n\\mathrm{FL}(\\gamma = 2) &= -(1-0.55)^2\\log(0.55) &\\approx 0.121 \\\\\n\\end{align*}\\]\nHere, we can see that the propotional increase is approximately 3.6 times in the BCE loss function and approximately 30 times in the FL loss function. Hence, the FL loss function penalizes the model more for misclassifying the data."
+  },
+  {
+    "objectID": "blogs/MLLosses.html#implementation-1",
+    "href": "blogs/MLLosses.html#implementation-1",
+    "title": "Types of Losses and Optimisation.",
+    "section": "Implementation",
+    "text": "Implementation\n\nGenerating the data for classification\n\nfrom sklearn.datasets import make_blobs\n\n\nx, y = make_blobs(n_samples=500, centers=2, cluster_std=2, random_state=42)\n\nx = torch.from_numpy(x).float()\ny = torch.from_numpy(y).float().reshape(-1, 1)\n\nx = torch.concatenate([x, torch.ones((500, 1))], axis=1)\n\ncolor = ['red' if l == 0 else 'blue' for l in y]\n\n# plot data\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=x[:, 0], y=x[:, 1], mode='markers', marker=dict(color=color)))\nfig.update_layout(title='Data', xaxis_title='x', yaxis_title='y')\nfig.show()\n\n\n                                                \n\n\n\n\nBinary Cross-Entropy Loss\n\nTraining\n\nw = torch.randn(3, 1, requires_grad=True)\n\nlr = 0.1\nloss_fn = \"bce\"\n\n\nresult, y_pred = train(x, y, w, loss_fn, lr=lr, epochs=100)\n\nEpoch 0, loss 2.5939, Accuracy 0.4800\nEpoch 10, loss 0.2322, Accuracy 0.9520\nEpoch 20, loss 0.0507, Accuracy 0.9900\nEpoch 30, loss 0.0366, Accuracy 0.9860\nEpoch 40, loss 0.0330, Accuracy 0.9880\nEpoch 50, loss 0.0317, Accuracy 0.9900\nEpoch 60, loss 0.0310, Accuracy 0.9880\nEpoch 70, loss 0.0305, Accuracy 0.9880\nEpoch 80, loss 0.0301, Accuracy 0.9900\nEpoch 90, loss 0.0297, Accuracy 0.9900\n\n\n\n\nPlot the loss\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=torch.arange(len(result)), y=result, mode='lines', name='Accuracy'))\nfig.update_layout(title='Accuracy', xaxis_title='Epoch', yaxis_title='Accuracy')\nfig.show()\n\n\n                                                \n\n\n\n\nPlot the data with the separation line\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=x[:, 0], y=x[:, 1], mode='markers', marker=dict(color=color)))\nfig.add_trace(go.Scatter(x=x[:, 0], y=(-(w[0] * x[:, 0] + w[2]) / w[1]).detach(), mode='lines', name='separation line', line=dict(color='red')))\nfig.update_layout(title='Data', xaxis_title='x', yaxis_title='y', yaxis_range=(x[:, 1].min() - 5, x[:, 1].max() + 5))\nfig.show()\n\n\n                                                \n\n\n\n\n\nFocal Loss\n\nTraining\n\nw = torch.randn(3, 1, requires_grad=True)\n\nlr = 0.1\nloss_fn = \"focal\"\n\n\nresult, y_pred = train(x, y, w, loss_fn, lr=lr, epochs=100, extra=5)\n\nEpoch 0, loss 1.3781, Accuracy 0.5020\nEpoch 10, loss 0.0047, Accuracy 0.9820\nEpoch 20, loss 0.0156, Accuracy 0.9720\nEpoch 30, loss 0.0191, Accuracy 0.9720\nEpoch 40, loss 0.0163, Accuracy 0.9740\nEpoch 50, loss 0.0125, Accuracy 0.9800\nEpoch 60, loss 0.0097, Accuracy 0.9860\nEpoch 70, loss 0.0078, Accuracy 0.9820\nEpoch 80, loss 0.0068, Accuracy 0.9820\nEpoch 90, loss 0.0061, Accuracy 0.9820\n\n\n\n\nPlot the loss\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=torch.arange(len(result)), y=result, mode='lines', name='Accuracy'))\nfig.update_layout(title='Accuracy', xaxis_title='Epoch', yaxis_title='Accuracy')\nfig.show()\n\n\n                                                \n\n\n\n\nPlot the data with the separation line\n\nfig = go.Figure()\nfig.add_trace(go.Scatter(x=x[:, 0], y=x[:, 1], mode='markers', marker=dict(color=color)))\nfig.add_trace(go.Scatter(x=x[:, 0], y=(-(w[0] * x[:, 0] + w[2]) / w[1]).detach(), mode='lines', name='separation line', line=dict(color='red')))\nfig.update_layout(title='Classification', xaxis_title='x', yaxis_title='y', yaxis_range=(x[:, 1].min() - 5, x[:, 1].max() + 5))\nfig.show()\n\n\n                                                \n\n\n\n\n\nComparison between BCE and FL\n\ndef ce(p):\n    return -torch.log(p)\n\ndef fl(p, gamma=2):\n    return (1 - p) ** gamma * -torch.log(p)\n\n\nx = torch.arange(0.01, 1, 0.01)\n\nfig = go.Figure()\nfor gamma in [0, 0.5, 1, 2, 5, 10]:\n    fig.add_trace(go.Scatter(x=x, y=fl(x, gamma)/ce(x), mode='lines', name=f'gamma={gamma}'))\nfig.update_layout(title='Focal Loss / Cross Entropy', xaxis_title='p', yaxis_title='Focal Loss / Cross Entropy')\nfig.show()\n\n\n                                                \n\n\n\nfig = go.Figure()\nfor gamma in [0, 0.5, 1, 2, 5, 10]:\n    fig.add_trace(go.Scatter(x=x, y=torch.log(ce(x)/fl(x, gamma)), mode='lines', name=f'gamma={gamma}'))\nfig.update_layout(title='log(Cross Entropy / Focal Loss)', xaxis_title='p', yaxis_title='log(Cross Entropy / Focal Loss)')\nfig.show()"
+  },
+  {
+    "objectID": "about.html#achievements",
+    "href": "about.html#achievements",
+    "title": "About Me",
+    "section": "",
+    "text": "Qualified UGC NET (National Eligibility Test) for Lectureship in 2022\n\nObtained Second Rank in the University final exam in Master of Technology (M.Tech, 2021)\n\nSecured First Rank in AUAT 2019\n\nObtained First Rank in the University final exam in Bachelor of Technology (B.Tech, 2019)\n\nAchieved 64th Rank in AUAT 2015\n\nQualified BCECE in 2015\n\nQualified WB JEE & AIEEE in 2015\n\nAwarded National Scholarship three times during B.Tech and twice during M.Tech\n\nReceived 1st Division Scholarship under Mukhyamantri Balak/Balika Protsahan Yojana (2011)\n\nWon 1st Prize in Chemistry (2012)"
+  },
+  {
+    "objectID": "Project.html#workshop",
+    "href": "Project.html#workshop",
+    "title": "(Amaan) Akbar Ali",
+    "section": "Workshop",
+    "text": "Workshop\n\nParticipated in National Seminar on “Preparation & Publication of Research Articles” organized by Department of Computer Science and Engineering, Aliah University, Kolkata on 18th March 2019.\nParticipated in National Seminar on “Mathematical Modelling and its Application in Natural and Engineering Science (NSMMANES- 2019)” organized by Department of Mathematics and Statistics, Aliah University, Kolkata on 25th March 2019."
+  },
+  {
+    "objectID": "Conference.html#about-it",
+    "href": "Conference.html#about-it",
+    "title": "Conference",
+    "section": "",
+    "text": "A conference paper is a written document that presents research, analysis, or findings on a specific topic within a particular academic or professional conference. It is a concise and structured piece of work that highlights the key aspects of a research project, including the objectives, methodology, results, and conclusions. Conference papers serve as a platform for scholars, researchers, and experts to share their insights, exchange knowledge, and contribute to the advancement of their respective fields."
+  },
+  {
+    "objectID": "Conference.html#my-work",
+    "href": "Conference.html#my-work",
+    "title": "Conference",
+    "section": "My Work",
+    "text": "My Work\n\nDescriptive Predictive Model for Parkinson’s Disease Analysis"
+  },
+  {
+    "objectID": "Project.html#about-it",
+    "href": "Project.html#about-it",
+    "title": "(Amaan) Akbar Ali",
+    "section": "",
+    "text": "In my journey, I’ve had the privilege of attending remarkable projects and workshops. These transformative experiences have broadened my horizons, ignited my creativity, and fostered personal growth. Each endeavour has enriched my knowledge and expanded my perspective, from innovative projects that push the boundaries of technology to immersive workshops that cultivate new skills."
+  },
+  {
+    "objectID": "Project.html#project",
+    "href": "Project.html#project",
+    "title": "(Amaan) Akbar Ali",
+    "section": "Project",
+    "text": "Project\n\nM.tech 2021\nTopic: Prediction Model for Parkinson’s Disease\nAdvisor: Dr. Saiyed Umer Assistant professor,Dept. of CSE, Aliah University, Kolkata 700156.\nB.Tech2019\nTopic: Design of Home Automation using IoT\nAdvisor: Dr. Zeenat Rehena, Assistant professor,Dept. of CSE, Aliah University, Kolkata 700156."
+  },
+  {
+    "objectID": "index.html#co",
+    "href": "index.html#co",
+    "title": "Student | Adventure | Unleashed.",
+    "section": "co",
+    "text": "co"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Student | Adventure | Unleashed.",
+    "section": "contact me",
+    "text": "contact me"
+  },
+  {
+    "objectID": "index.html#contra",
+    "href": "index.html#contra",
+    "title": "Student | Adventure | Unleashed.",
+    "section": "contra",
+    "text": "contra"
+  },
+  {
+    "objectID": "index.html#contr",
+    "href": "index.html#contr",
+    "title": "Student | Adventure | Unleashed.",
+    "section": "contr",
+    "text": "contr"
+  },
+  {
+    "objectID": "index.html#señoras-y-señores-pueden-contactarme",
+    "href": "index.html#señoras-y-señores-pueden-contactarme",
+    "title": "Student | Adventure | Unleashed.",
+    "section": "Señoras y señores, pueden contactarme",
+    "text": "Señoras y señores, pueden contactarme"
+  },
+  {
+    "objectID": "Conference.html#my-paper",
+    "href": "Conference.html#my-paper",
+    "title": "Conference",
+    "section": "My Paper",
+    "text": "My Paper\n\nPublications\nGujarat, India\nJune 2021 - Nov 2022\n\nAkbar Ali, Indra Deep Mastan and Shanmuganathan Raman, “GenCleanAI: Generative Unsupervised Image Restoration in Latent Space”. 2025\n(Manuscript under review in WACV26) Sept\nAkbar Ali, Indra Deep Mastan and Shanmuganathan Raman, “Investigating Robustness of Unsupervised StyleGAN Image Restoration”. (Accepted) ICIP 2025\nAkbar Ali, Pankaj Khanna, Subramanian Sankaranarayanan, Shanmuganathan Raman, “COT-AD: Cotton Analysis Dataset”. (Accepted) ICIP 2025\nAkbar Ali, Ranjit Kumar Rout and Saiyed Umer, “Descriptive Predictive Model for Parkinson’s Disease Analysis”.\nSpringer Nature (Published) Feb 2023"
+  },
+  {
+    "objectID": "about.html#contact-me",
+    "href": "about.html#contact-me",
+    "title": "About Me",
+    "section": "",
+    "text": "LinkedIn\n\nGitHub\n\nTwitter\n\nEmail\n\nGoogle Scholar"
+  },
+  {
+    "objectID": "Project.html#projects",
+    "href": "Project.html#projects",
+    "title": "Akbar Ali",
+    "section": "Projects",
+    "text": "Projects\n\nM.Tech 2021\nTopic: Prediction Model for Parkinson’s Disease\nAdvisor: Prof. Saiyed Umer, Assistant Professor, Dept. of CSE, Aliah University, Kolkata 700156.\nB.Tech 2019\nTopic: Design of Home Automation using IoT\nAdvisor: Prof. Zeenat Rehena, Assistant Professor, Dept. of CSE, Aliah University, Kolkata 700156."
+  },
+  {
+    "objectID": "Project.html#workshops",
+    "href": "Project.html#workshops",
+    "title": "Zainab",
+    "section": "Workshops",
+    "text": "Workshops\n\n3D Vision Summer School, IIIT Bangalore, India — June 22–28, 2024 (In-Person)\nGained exposure to Deep Learning applications in 3D Vision through lectures, hands-on sessions, and research discussions led by experts.\nVisvesvaraya Workshop, IIT Mandi — May 2024\nFocused on advanced presentations and interdisciplinary research under the Visvesvaraya PhD Scheme.\n\n\n\n\n Visvesvaraya Workshop (IITGN Mandi)\n\n\n\nNational Seminar: Preparation & Publication of Research Articles, Aliah University — March 18, 2019.\nNational Seminar: Mathematical Modelling & its Application in Natural and Engineering Science (NSMMANES-2019), Aliah University — March 25, 2019."
+  },
+  {
+    "objectID": "gallery.html#my-poster",
+    "href": "gallery.html#my-poster",
+    "title": "Gallery",
+    "section": "",
+    "text": "You can view or download my poster here:\nDownload my poster (PDF)\n\n\n\n\n\n\nMy Picture\n\n\n\n\n\nAnother Picture"
+  },
+  {
+    "objectID": "gallery.html#icip-2025-posters",
+    "href": "gallery.html#icip-2025-posters",
+    "title": "Zainab",
+    "section": "ICIP 2025 Posters",
+    "text": "ICIP 2025 Posters\n\nPoster 1: “COT-AD”\n\n  \n\n\n\n\n\n\nPoster 2: “IRUSIR”"
+  },
+  {
+    "objectID": "gallery.html#more-pictures",
+    "href": "gallery.html#more-pictures",
+    "title": "Zainab",
+    "section": "More Pictures",
+    "text": "More Pictures"
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Zainab",
+    "section": "",
+    "text": "History of English Literature\n\nElizabethan & Jacobean Drama\n\nWorld Literature\n\nModern Literary Theory\n\nPostcolonial Literature\n\nIndian English Literature in Translation\n\nBusiness Communication Skills\n\nTechnical Writing"
+  },
+  {
+    "objectID": "about.html#uav-pilot-license-experience",
+    "href": "about.html#uav-pilot-license-experience",
+    "title": "About Me",
+    "section": "UAV Pilot License & Experience",
+    "text": "UAV Pilot License & Experience\n\nEarned a UAV Pilot License\n\nCertified to fly UAVs weighing up to 25 kg\n\nExperienced in flying DJI Mavic and Bajrang drones"
+  },
+  {
+    "objectID": "about.html#academic-milestones",
+    "href": "about.html#academic-milestones",
+    "title": "About Me",
+    "section": "Academic Milestones",
+    "text": "Academic Milestones\n\nQualified UGC NET (National Eligibility Test) for Lectureship in 2022\n\nObtained Second Rank in the University final exam in Master of Technology (M.Tech, 2021)\n\nSecured First Rank in AUAT 2019\n\nObtained First Rank in the University final exam in Bachelor of Technology (B.Tech, 2019)\n\nAchieved 64th Rank in AUAT 2015\n\nQualified BCECE in 2015\n\nQualified WB JEE & AIEEE in 2015\n\nAwarded National Scholarship three times during B.Tech and twice during M.Tech\n\nReceived 1st Division Scholarship under Mukhyamantri Balak/Balika Protsahan Yojana (2011)\n\nWon 1st Prize in Chemistry (2012)"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nIndian Institute of Technology Gandhinagar, Gujarat, India\nPhD in Computer Science & Engineering\nDec 2022 – Present\nGrade: 9.14/10 (CPI)\nAliah University, West Bengal, India\nM.Tech in Computer Science & Engineering\nJune 2019 – July 2021\nGrade: 9.03/10 (CPI)\nAliah University, West Bengal, India\nB.Tech in Computer Science & Engineering\nJune 2015 – July 2019\nGrade: 8.97/10 (CPI)"
+  },
+  {
+    "objectID": "Project.html#experimental-work",
+    "href": "Project.html#experimental-work",
+    "title": "Akbar Ali",
+    "section": "Experimental Work",
+    "text": "Experimental Work\n\n3D Geophysical Image Translation using GANs\nFeb 2024 – Jan 2025\n\nTranslated 3D geophysical images into photorealistic virtual outcrop geology using GANs.\n\nDeveloped a methodology for generating diverse geological outcrop images at varying altitudes.\n\nSmart Farming of Cotton using Aerial Imagery & Computer Vision\nJun 2023 – Jan 2024\n\nStudied the effect of weather and pests on crop health using aerial imaging.\n\nConducted weekly drone missions (10m, 15m, 115m altitudes) from July–December 2023, covering the full cotton growth cycle.\n\n\n\n\nField observation during cotton growth monitoring (captured using DSLR)"
+  },
+  {
+    "objectID": "Teaching.html#teaching",
+    "href": "Teaching.html#teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "Lead Teaching Assistant, IIT Gandhinagar (Jan 2025 – Apr 2025)\n\nCourse: ES 113 – Data Centric Computing\n\nMentored 45 students in topics including data structures, algorithms, data analysis with Python (Pandas, Matplotlib), SQL, and basic machine learning.\n\nSupported QA sessions, graded assignments, and collaborated with faculty for smooth course delivery.\n\nGraduate Teaching Fellow, IIT Gandhinagar (Aug 2024 – Nov 2024)\n\nCourse: FP 602 – Writing\n\nMentored 35 students, managing classwork, exams, and academic progress. Ensured effective communication and timely coordination of assignments.\n\nTeaching Assistant, IIT Gandhinagar (Dec 2022 – Apr 2024)\n\nCourse: ES 114 Probability, Statistics and Data Visualization\nCourses: Probability, Statistics, and Data Visualization; Probability and Randomization\n\nConducted lab/tutorial sessions for 50+ students using Python data science libraries. Managed evaluations and provided academic support.\n\nTeaching Assistant, IIT Gandhinagar (June 2024 – June 2024)\n\nCourse: SC 333 – Drone Data Acquisition, Processing, and Interpretation\n\nAssisted in conducting a short course for ~30 students on drone technology, including flight training, data acquisition, and processing techniques using RGB and multispectral imagery.\n\nSupported hands-on sessions and fieldwork to help students gain practical experience in drone operations and data interpretation."
+  },
+  {
+    "objectID": "Project.html#field-visits",
+    "href": "Project.html#field-visits",
+    "title": "Zainab",
+    "section": "Field Visits",
+    "text": "Field Visits\n\n\nDrone Data & core Acquisition\nDepartment: Earth Science\nNote-Due to privacy reasons can not write the field name\n\nField Visit 1 — May 2023\n\nField Visit 2 — Aug 2024\n\nField Visit 3 — Nov 2024\n\n\n\n🏙 Transport Evaluation\nDepartment: Computer Science\n\nSilvassa — Jul 2024\n\nAurangabad — Jul 2024\n\n\n\n\n\n\nSilvassa"
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Akbar! I’m a third-year PhD student at the Indian Institute of Technology Gandhinagar (IITGN), India, studying Computer Vision, Deep Generative Models, and Hyperspectral Imaging in the Department of Computer Science and Engineering.\nBefore joining IITGN, I completed my Bachelor’s and Master’s degrees in Computer Science and Engineering at Aliah University.\nIn between, I worked as a Project Associate at IIT Ropar.\nAs an enthusiastic learner, I am always eager to take up challenging tasks and push my limits to achieve excellence. My academic journey has given me a strong foundation in computer science concepts, and I have gained practical experience through various projects."
+  },
+  {
+    "objectID": "Bio.html",
+    "href": "Bio.html",
+    "title": "Zainab",
+    "section": "",
+    "text": "Zainab\n\n\nZainab\nAssistant Professor\nGiridih, Jharkhand\n+91-7779977821 (WA)\nzainab@kbn.university · zainabtbs@gmail.com\n\n\n\nTo follow one of the noblest professions of teaching. Teaching is a continuous learning process in order to impart knowledge to students. I am an aspiring researcher and writer with interests in Diasporic Identity, Postcolonial Studies, Cultural Studies and Gender Studies.\n\n\n\n\nTeaching, Research, Academic Writing\n\nMS Word, MS Excel, MS PowerPoint, DCA\n\n\n\n\n\nEnglish, Hindi, Urdu, Arabic (reading)\n\n\n\n\n\nReading (Fiction & Non-Fiction), Writing, Sports"
+  },
+  {
+    "objectID": "Bio.html#bio",
+    "href": "Bio.html#bio",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi, I’m Akbar! I’m a third-year PhD student at the Indian Institute of Technology Gandhinagar (IITGN), India, studying Computer Vision, Deep Generative Models, and Hyperspectral Imaging in the Department of Computer Science and Engineering.\nBefore joining IITGN, I completed my Bachelor’s and Master’s degrees in Computer Science and Engineering at Aliah University.\nIn between, I worked as a Project Associate at IIT Ropar.\nAs an enthusiastic learner, I am always eager to take up challenging tasks and push my limits to achieve excellence. My academic journey has given me a strong foundation in computer science concepts, and I have gained practical experience through various projects."
+  },
+  {
+    "objectID": "Bio.html#education",
+    "href": "Bio.html#education",
+    "title": "Zainab",
+    "section": "Education",
+    "text": "Education\n\nGATE (Qualified) — English Literature\n\nM.A. in English Literature, St. Xavier’s College, Ranchi University (2017–2019)\n\nB.A. in English Literature, R.K. Women’s College, VBU University (2014–2017)\n\nIntermediate (Science), J.M. College, JAC Board (2012–2014)\n\nMatriculation, DAV Public School, NTS Barkakana, CBSE (2012)"
+  },
+  {
+    "objectID": "Bio.html#academic-milestones",
+    "href": "Bio.html#academic-milestones",
+    "title": "Hello! I’m Akbar",
+    "section": "Academic Milestones",
+    "text": "Academic Milestones\n\nUGC-NET (Computer Applications) — Qualified in 2022\n\nUniversity Topper (M.Tech, 2021) — Secured 2nd Rank in the overall program\n\nUniversity Topper (B.Tech, 2019) — Secured 1st Rank in the overall program\n\n1st Rank, AUAT M.Tech Entrance Examination — 2019\n\n64th Rank, AUAT B.Tech Entrance Examination — 2015\n\nNational Scholarship Recipient — Awarded five times (3× (B.Tech) & 2× (M.Tech))\n\nCompetitive Exams Qualified — BCECE, WB JEE, and AIEEE\n\nAcademic Excellence Award — 1st Prize in Chemistry (2012)"
+  },
+  {
+    "objectID": "Bio.html#uav-pilot-license-experience",
+    "href": "Bio.html#uav-pilot-license-experience",
+    "title": "Hello! I’m Akbar",
+    "section": "UAV Pilot License & Experience",
+    "text": "UAV Pilot License & Experience\nUAV Pilot License — Certified to fly up to 25 kg\nExperienced with DJI Mavic and Bajrang drones.\nOperational tasks include data collection, aerial inspection, and spectral imaging.\nSafety & Compliance\n- Pre-flight checks\n- Flight mission planning\n- Data transfer and storage procedures"
+  },
+  {
+    "objectID": "Conference.html#section",
+    "href": "Conference.html#section",
+    "title": "Zainab",
+    "section": "",
+    "text": "GenCleanAI: Generative Unsupervised Image Restoration in Latent Space\nAkbar Ali, Indra Deep Mastan, and Shanmuganathan Raman\n(Manuscript under review, cvpr 2026) — Nov 2025\n[PDF] · [Project Page]\n\n\n\n\n\n\n\n\nInvestigating Robustness of Unsupervised StyleGAN Image Restoration\nAkbar Ali, Indra Deep Mastan, and Shanmuganathan Raman\n(Published by ICIP 2025)\nPDF · Project Page · Dataset\n\n\n\n\n\n\n\n\nCOT-AD: Cotton Analysis Dataset\nAkbar Ali, Pankaj Khanna, Subramanian Sankaranarayanan, and Shanmuganathan Raman\n(Published by ICIP 2025)\nPDF · Dataset · Project Page"
+  },
+  {
+    "objectID": "Conference.html#section-1",
+    "href": "Conference.html#section-1",
+    "title": "Zainab",
+    "section": "📘 2023",
+    "text": "📘 2023\n\n\n\n\n\nDescriptive Predictive Model for Parkinson’s Disease Analysis\nAkbar Ali, Ranjit Kumar Rout, and Saiyed Umer\n(Published by Springer Nature) — February 2023\nPDF . Project Page"
+  },
+  {
+    "objectID": "Bio.html#skills-tools",
+    "href": "Bio.html#skills-tools",
+    "title": "Hello! I’m Akbar",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\nProgramming Languages\n🟢 Python · 🔵 C/C++\nFrameworks & Libraries\n🟣 PyTorch · 🟤 scikit-learn\nTools & Platforms\n💻 Git · 🧾 LaTeX · 🐧 Linux\nResearch Interests\nI am currently conducting research in Deep Generative Models, with a broader focus on Computer Vision and Hyperspectral Imaging. My work involves developing learning-based models for image restoration, visual understanding, and representation learning."
+  },
+  {
+    "objectID": "Bio.html#visual-polish-optional-css",
+    "href": "Bio.html#visual-polish-optional-css",
+    "title": "About Me",
+    "section": "✨ Visual polish / optional CSS",
+    "text": "✨ Visual polish / optional CSS\nIf you want slightly nicer rounded cards and subtle hover shadows, add a CSS file styles.css to your project and include it via _quarto.yml (example below). This is optional.\nstyles.css (place in project root or styles/): ```css /* styles.css */ .callout { border-radius: 12px; padding: 18px; box-shadow: 0 6px 20px rgba(0,0,0,0.06); } .img-fluid.rounded.shadow { box-shadow: 0 8px 24px rgba(0,0,0,0.08); }"
+  },
+  {
+    "objectID": "Bio.html#contact",
+    "href": "Bio.html#contact",
+    "title": "Hi — I’m Akbar",
+    "section": "Contact",
+    "text": "Contact\n\n\n\n\n\n\n. Email: akbar.ali@iitgn.ac.in\n· Google Scholar: profile · X/Twitter: akbarali"
+  },
+  {
+    "objectID": "Project.html#workshops-training",
+    "href": "Project.html#workshops-training",
+    "title": "Projects and Workshops",
+    "section": "🧑‍🏫 Workshops & Training",
+    "text": "🧑‍🏫 Workshops & Training\n\n\n\n\n\n\nNote\n\n\n\n3D Vision Summer School (IIIT Bangalore, June 2024)\nAttended the 3D Vision Summer School held at IIIT Bangalore, India (June 22–28, 2024).\nGained in-depth exposure to Deep Learning techniques and their applications in 3D Vision through lectures, hands-on sessions, and research discussions.\nVisvesvaraya Workshop (IIT Mandi, May 2024)\nAttended the Visvesvaraya PhD Scheme workshop at IIT Mandi, focusing on advanced research methodologies and interdisciplinary collaboration.\nNational Seminar — Research Article Preparation (2019)\nParticipated in a National Seminar on Preparation & Publication of Research Articles organized by the Department of CSE, Aliah University (March 18, 2019).\nNational Seminar — Mathematical Modelling (NSMMANES 2019)\nParticipated in the National Seminar on Mathematical Modelling and its Application in Natural and Engineering Science (NSMMANES 2019), Department of Mathematics and Statistics, Aliah University (March 25, 2019)."
+  },
+  {
+    "objectID": "Bio.html#section",
+    "href": "Bio.html#section",
+    "title": "Hello! I’m Akbar",
+    "section": "",
+    "text": "· Google Scholar: Akbar Ali · X/Twitter: Aamaan Akbar"
+  },
+  {
+    "objectID": "Bio.html#education-indian-institute-of-technology-gandhinagar-gujarat-india-phd-in-computer-science-engineering-dec-2022-present-grade-9.1410-cpi-aliah-university-west-bengal-india-m.tech-in-computer-science-engineering-june-2019-july-2021-grade-9.0310-cpi-aliah-university-west-bengal-india-b.tech-in-computer-science-engineering-june-2015-july-2019-grade-8.9710-cpi",
+    "href": "Bio.html#education-indian-institute-of-technology-gandhinagar-gujarat-india-phd-in-computer-science-engineering-dec-2022-present-grade-9.1410-cpi-aliah-university-west-bengal-india-m.tech-in-computer-science-engineering-june-2019-july-2021-grade-9.0310-cpi-aliah-university-west-bengal-india-b.tech-in-computer-science-engineering-june-2015-july-2019-grade-8.9710-cpi",
+    "title": "Hi — I’m Akbar",
+    "section": "Education Indian Institute of Technology Gandhinagar, Gujarat, India PhD in Computer Science & Engineering Dec 2022 – Present Grade: 9.14/10 (CPI) Aliah University, West Bengal, India M.Tech in Computer Science & Engineering June 2019 – July 2021 Grade: 9.03/10 (CPI) Aliah University, West Bengal, India B.Tech in Computer Science & Engineering June 2015 – July 2019 Grade: 8.97/10 (CPI)",
+    "text": "Education Indian Institute of Technology Gandhinagar, Gujarat, India PhD in Computer Science & Engineering Dec 2022 – Present Grade: 9.14/10 (CPI) Aliah University, West Bengal, India M.Tech in Computer Science & Engineering June 2019 – July 2021 Grade: 9.03/10 (CPI) Aliah University, West Bengal, India B.Tech in Computer Science & Engineering June 2015 – July 2019 Grade: 8.97/10 (CPI)"
+  },
+  {
+    "objectID": "Bio.html#contact-profiles",
+    "href": "Bio.html#contact-profiles",
+    "title": "About Me",
+    "section": "Contact & Profiles",
+    "text": "Contact & Profiles\n\n\n\n\n\n\nGoogle Scholar: profile · X/Twitter: @AamaanAkbar · Email: your.email@domain"
+  },
+  {
+    "objectID": "index.html#iitgn-timeline",
+    "href": "index.html#iitgn-timeline",
+    "title": "Akbar Ali",
+    "section": "🕰️ IITGN Timeline",
+    "text": "🕰️ IITGN Timeline\n\n\n\nDec 2022\n\n\n&lt;h3&gt;Joined IIT Gandhinagar — PhD (CSE)&lt;/h3&gt;\n&lt;p&gt;Started PhD in Computer Science & Engineering. Research areas: Computer Vision, Deep Generative Models, Hyperspectral Imaging.&lt;/p&gt;\n\n\n\n\n2023\n\n\n&lt;h3&gt;Coursework & Lab rotations&lt;/h3&gt;\n&lt;p&gt;Completed core coursework and rotated through lab projects — established primary research direction in image restoration and generative models.&lt;/p&gt;\n\n\n\n\n2024\n\n\n&lt;h3&gt;First major project milestone&lt;/h3&gt;\n&lt;p&gt;Implemented experiments and baseline comparisons for hyperspectral image restoration. Built reproducible training pipelines and logging.&lt;/p&gt;\n\n\n\n\n2025\n\n\n&lt;h3&gt;Accepted conference paper & new submissions&lt;/h3&gt;\n&lt;p&gt;Accepted a paper at a peer-reviewed conference (2025). Also submitted a conference paper to WACV (Sep 2025).&lt;/p&gt;\n\n\n\n\nPresent\n\n\n&lt;h3&gt;Ongoing — experiments, writing & teaching&lt;/h3&gt;\n&lt;p&gt;Continuing research, preparing manuscripts, and contributing to lab teaching and mentorship. Focus on robust models and reproducible code.&lt;/p&gt;"
+  },
+  {
+    "objectID": "index.html#visual-iitgn-timeline",
+    "href": "index.html#visual-iitgn-timeline",
+    "title": "Akbar Ali",
+    "section": "Visual IITGN timeline",
+    "text": "Visual IITGN timeline\n\n\n&lt;div class=\"lab-date\"&gt;Dec 2022&lt;/div&gt;\n&lt;div class=\"lab-body\"&gt;\n  &lt;h4&gt;Admission — PhD (CSE)&lt;/h4&gt;\n  &lt;p&gt;Joined IITGN. Research: Computer Vision, Deep Generative Models, Hyperspectral Imaging.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"lab-date\"&gt;Jan–May 2023&lt;/div&gt;\n&lt;div class=\"lab-body\"&gt;\n  &lt;h4&gt;Coursework & Rotations&lt;/h4&gt;\n  &lt;p&gt;Core courses, lab rotations; scoped thesis problems and datasets.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"lab-date\"&gt;Jul 2023 – Mar 2024&lt;/div&gt;\n&lt;div class=\"lab-body\"&gt;\n  &lt;h4&gt;Baselines & Pipelines&lt;/h4&gt;\n  &lt;p&gt;Built training pipelines, evaluation scripts & initial baselines for HS image restoration.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"lab-date\"&gt;Apr 2024 – Dec 2024&lt;/div&gt;\n&lt;div class=\"lab-body\"&gt;\n  &lt;h4&gt;GenCleanAI&lt;/h4&gt;\n  &lt;p&gt;Developed generative unsupervised restoration in latent space; experiments & ablations.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"lab-date\"&gt;Jul 2025&lt;/div&gt;\n&lt;div class=\"lab-body\"&gt;\n  &lt;h4&gt;Conference Acceptances&lt;/h4&gt;\n  &lt;p&gt;Two papers accepted at ICIP 2025; further presentations at international venues.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"lab-date\"&gt;Sep 2025&lt;/div&gt;\n&lt;div class=\"lab-body\"&gt;\n  &lt;h4&gt;WACV Submission&lt;/h4&gt;\n  &lt;p&gt;Submitted paper to WACV 2026; continuing experiments & writing.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"lab-date\"&gt;Present&lt;/div&gt;\n&lt;div class=\"lab-body\"&gt;\n  &lt;h4&gt;Ongoing&lt;/h4&gt;\n  &lt;p&gt;Research, mentoring, teaching, and preparing further submissions.&lt;/p&gt;\n&lt;/div&gt;"
+  },
+  {
+    "objectID": "index.html#iitgn-research-timeline",
+    "href": "index.html#iitgn-research-timeline",
+    "title": "Akbar Ali",
+    "section": "📘 IITGN — Research Timeline",
+    "text": "📘 IITGN — Research Timeline\n\n\n\n\n\n\nDec 2022 — Admission\n\n\n\nJoined the Ph.D. program in Computer Science & Engineering at IIT Gandhinagar.\nFocus: Computer Vision, Generative Models, and Hyperspectral Imaging.\n\n\n\n\n\n\n\n\nJan – Jun 2023 — Coursework & Lab Rotations\n\n\n\nCompleted foundational courses in Advanced CV, ML, and Optimization; explored early lab projects.\n\n\n\n\n\n\n\n\nJul 2023 – Mar 2024 — Baselines & Implementation\n\n\n\nBuilt reproducible training pipelines for hyperspectral restoration. Established experimental benchmarks.\n\n\n\n\n\n\n\n\nApr – Dec 2024 — GenCleanAI Project\n\n\n\nProposed and developed the GenCleanAI model for unsupervised image restoration in latent space.\n\n\n\nJul 2025 — Publications\nTwo papers accepted at ICIP 2025; presented results at an international conference.\n\n\n\n\n\n\n\nSep 2025 — WACV 2026 Submission\n\n\n\nSubmitted extended generative restoration paper to WACV 2026.\n\n\n\n\n\n\n\n\nPresent — Ongoing Work\n\n\n\nContinuing diffusion-based experiments, mentoring, and preparing new submissions."
+  },
+  {
+    "objectID": "index.html#iitgn-phd-journey-gantt-view",
+    "href": "index.html#iitgn-phd-journey-gantt-view",
+    "title": "Akbar Ali",
+    "section": "🎓 IITGN — PhD Journey (Gantt View)",
+    "text": "🎓 IITGN — PhD Journey (Gantt View)\ngantt title IIT Gandhinagar — PhD Timeline dateFormat YYYY-MM-DD axisFormat %b %Y\nsection Foundation\nAdmission & Joining         :a1, 2022-12-01, 2022-12-31\nCoursework & Rotations      :a2, 2023-01-01, 2023-06-30\nsection Research Development\nBaseline Experiments        :r1, 2023-07-01, 2024-03-31\nGenCleanAI Project          :r2, 2024-04-01, 2024-12-31\nsection Publications\nPaper Writing & Revision    :p1, 2024-01-01, 2025-03-31\nConference Acceptances (ICIP) :p2, 2025-04-01, 2025-07-31\nWACV 2026 Submission        :p3, 2025-09-01, 2025-09-30\nsection Current\nOngoing Research & Mentoring :c1, 2025-01-01, 2025-10-19"
+  },
+  {
+    "objectID": "index.html#option-b-timeline-table-fully-markdown-clean",
+    "href": "index.html#option-b-timeline-table-fully-markdown-clean",
+    "title": "Akbar Ali",
+    "section": "🅱️ Option B — Timeline Table (Fully Markdown, Clean)",
+    "text": "🅱️ Option B — Timeline Table (Fully Markdown, Clean)\nSimple, readable, and prints beautifully."
+  },
+  {
+    "objectID": "index.html#markdown",
+    "href": "index.html#markdown",
+    "title": "Akbar Ali",
+    "section": "```markdown",
+    "text": "```markdown\ntitle: “IITGN Timeline” format: html: toc: false —"
+  },
+  {
+    "objectID": "index.html#iitgn-timeline-summary",
+    "href": "index.html#iitgn-timeline-summary",
+    "title": "Akbar Ali",
+    "section": "🕰️ IITGN Timeline (Summary)",
+    "text": "🕰️ IITGN Timeline (Summary)\n\n\n\n\n\n\n\n\nPeriod\nMilestone\nDescription\n\n\n\n\nDec 2022\nAdmission\nJoined IIT Gandhinagar, Ph.D. (CSE) under Prof. Shanmuganathan Raman.\n\n\nJan – Jun 2023\nCoursework\nCompleted core courses: Advanced CV, ML, Optimization; lab rotations.\n\n\nJul 2023 – Mar 2024\nBaseline Experiments\nDeveloped initial pipelines for hyperspectral image restoration.\n\n\nApr – Dec 2024\nGenCleanAI Project\nDesigned unsupervised generative image restoration in latent space.\n\n\nJul 2025\nICIP 2025 Acceptances\nTwo papers accepted in international conference (ICIP 2025).\n\n\nSep 2025\nWACV 2026 Submission\nSubmitted generative restoration paper to WACV 2026.\n\n\nPresent\nOngoing Work\nConducting experiments, writing, and mentoring students."
+  },
+  {
+    "objectID": "Bio.html#my-research-integrates-concepts-from-deep-generative-modeling-3d-understanding-and-unsupervised-visual-learning-aiming-to-advance-both-the-theoretical-and-practical-aspects-of-visual-intelligence.-i-have-also-contributed-to-collaborative-projects-spanning-image-restoration-vision-based-automation-and-differentiable-rendering.",
+    "href": "Bio.html#my-research-integrates-concepts-from-deep-generative-modeling-3d-understanding-and-unsupervised-visual-learning-aiming-to-advance-both-the-theoretical-and-practical-aspects-of-visual-intelligence.-i-have-also-contributed-to-collaborative-projects-spanning-image-restoration-vision-based-automation-and-differentiable-rendering.",
+    "title": "Hello! I’m Akbar",
+    "section": "My research integrates concepts from deep generative modeling, 3D understanding, and unsupervised visual learning, aiming to advance both the theoretical and practical aspects of visual intelligence. I have also contributed to collaborative projects spanning image restoration, vision-based automation, and differentiable rendering.",
+    "text": "My research integrates concepts from deep generative modeling, 3D understanding, and unsupervised visual learning, aiming to advance both the theoretical and practical aspects of visual intelligence. I have also contributed to collaborative projects spanning image restoration, vision-based automation, and differentiable rendering.\nAliah University, West Bengal, India\nM.Tech, Computer Science & Engineering\n📅 Jun 2019 – Jul 2021 · CPI: 9.03 / 10\n\nAliah University, West Bengal, India\nB.Tech, Computer Science & Engineering\n📅 Jun 2015 – Jul 2019 · CPI: 8.97 / 10"
+  },
+  {
+    "objectID": "Bio.html#i-am-pursuing-my-ph.d.-under-the-mentorship-of-prof.-shanmuganathan-raman-in-the-computer-science-and-engineering-discipline-at-iit-gandhinagar-focusing-on-visual-learning-and-generative-representations-to-develop-interpretable-and-efficient-ai-systems.",
+    "href": "Bio.html#i-am-pursuing-my-ph.d.-under-the-mentorship-of-prof.-shanmuganathan-raman-in-the-computer-science-and-engineering-discipline-at-iit-gandhinagar-focusing-on-visual-learning-and-generative-representations-to-develop-interpretable-and-efficient-ai-systems.",
+    "title": "Hello! I’m Akbar",
+    "section": "I am pursuing my Ph.D. under the mentorship of Prof. Shanmuganathan Raman in the Computer Science and Engineering discipline at IIT Gandhinagar, focusing on visual learning and generative representations to develop interpretable and efficient AI systems.",
+    "text": "I am pursuing my Ph.D. under the mentorship of Prof. Shanmuganathan Raman in the Computer Science and Engineering discipline at IIT Gandhinagar, focusing on visual learning and generative representations to develop interpretable and efficient AI systems.\nAliah University, West Bengal, India\nM.Tech, Computer Science & Engineering\n📅 Jun 2019 – Jul 2021 · CPI: 9.03 / 10\n\nAliah University, West Bengal, India\nB.Tech, Computer Science & Engineering\n📅 Jun 2015 – Jul 2019 · CPI: 8.97 / 10"
+  },
+  {
+    "objectID": "index.html#news-updates",
+    "href": "index.html#news-updates",
+    "title": "Akbar Ali",
+    "section": "News & Updates",
+    "text": "News & Updates\n\n\nSeptember 2025: Submitted a paper to WACV 2026.\n\n\nSeptember 2025: Presented two papers at an international conference.\n\n\nJuly 2025: Two papers accepted at the ICIP 2025 conference.\n\n\n\n\n\n\nDeartifacting\n\n\n\nInpainting\n\n\n\n\n\nDenoising\n\n\n\nUpsampling\n\n\n\n\n\n\nField observation during cotton growth monitoring (captured using DSLR)"
+  },
+  {
+    "objectID": "Project.html#recent-projects",
+    "href": "Project.html#recent-projects",
+    "title": "Zainab",
+    "section": "",
+    "text": "3D Geophysical Image Translation using GANs\nFeb 2024 – Jan 2025\n\nTranslated 3D geophysical images into photorealistic virtual outcrop geology using GANs.\n\nDeveloped a methodology for generating diverse geological outcrop images at varying altitudes.\n\nSmart Farming of Cotton using Aerial Imagery & Computer Vision\nJun 2023 – Jan 2024\n\nStudied the effect of weather and pests on crop health using aerial imaging.\n\nConducted weekly drone missions (10m, 15m, 115m altitudes) from July–December 2023, covering the full cotton growth cycle.\n\n\n\n\nField observation during cotton growth monitoring (captured using DSLR)"
+  },
+  {
+    "objectID": "Project.html#thesis-projects",
+    "href": "Project.html#thesis-projects",
+    "title": "Zainab",
+    "section": "Thesis Projects",
+    "text": "Thesis Projects\n\nM.Tech 2021\nTopic: Prediction Model for Parkinson’s Disease\nAdvisor: Prof. Saiyed Umer, Assistant Professor, Dept. of CSE, Aliah University, Kolkata 700156.\nB.Tech 2019\nTopic: Design of Home Automation using IoT\nAdvisor: Prof. Zeenat Rehena, Assistant Professor, Dept. of CSE, Aliah University, Kolkata 700156."
+  },
+  {
+    "objectID": "Teaching.html#teaching-experience",
+    "href": "Teaching.html#teaching-experience",
+    "title": "Akbar Ali",
+    "section": "",
+    "text": "Course: ES 113 – Data Centric Computing\n\nMentored 45 students in data structures, algorithms, Python for data analysis (Pandas, Matplotlib), SQL, and basic machine learning.\n\nSupported QA sessions, graded assignments, and collaborated with faculty for smooth course delivery.\n\n\n\n\n\nCourse: FP 602 – Writing\n\nMentored 35 students, managing classwork, exams, and academic progress.\n\nEnsured effective communication and timely assignment coordination.\n\n\n\n\n\nCourses: ES 114 – Probability, Statistics and Data Visualization; Probability and Randomization\n\nConducted lab/tutorial sessions for 50+ students using Python data science libraries.\n\nManaged evaluations and provided academic support.\n\n\n\n\n\nCourse: SC 333 – Drone Data Acquisition, Processing, and Interpretation\n\nAssisted in a short course for ~30 students on drone technology, including flight training, RGB and multispectral data acquisition, and processing workflows.\n\nSupported hands-on sessions and fieldwork for practical drone operations and data interpretation."
+  },
+  {
+    "objectID": "Teaching.html#drone-images-captured-during-sc-333",
+    "href": "Teaching.html#drone-images-captured-during-sc-333",
+    "title": "Akbar Ali",
+    "section": "Drone Images (Captured During SC 333)",
+    "text": "Drone Images (Captured During SC 333)"
+  },
+  {
+    "objectID": "Teaching.html#additional-mentoring-experience",
+    "href": "Teaching.html#additional-mentoring-experience",
+    "title": "Zainab",
+    "section": "Additional Mentoring Experience",
+    "text": "Additional Mentoring Experience\n\nMentored B.Tech and M.Tech students on projects related to Hyperspectral Imaging, Image Editing, and GAN Inversion, providing technical guidance throughout project development."
+  },
+  {
+    "objectID": "Bio.html#objective",
+    "href": "Bio.html#objective",
+    "title": "Zainab",
+    "section": "",
+    "text": "To follow one of the noblest professions of teaching. Teaching is a continuous learning process in order to impart knowledge to students. I am an aspiring researcher and writer with interests in Diasporic Identity, Postcolonial Studies, Cultural Studies and Gender Studies."
+  },
+  {
+    "objectID": "Bio.html#expertise-skills",
+    "href": "Bio.html#expertise-skills",
+    "title": "Zainab",
+    "section": "",
+    "text": "Teaching, Research, Academic Writing\n\nMS Word, MS Excel, MS PowerPoint, DCA"
+  },
+  {
+    "objectID": "Bio.html#languages",
+    "href": "Bio.html#languages",
+    "title": "Zainab",
+    "section": "",
+    "text": "English, Hindi, Urdu, Arabic (reading)"
+  },
+  {
+    "objectID": "Bio.html#interests",
+    "href": "Bio.html#interests",
+    "title": "Zainab",
+    "section": "",
+    "text": "Reading (Fiction & Non-Fiction), Writing, Sports"
+  },
+  {
+    "objectID": "Bio.html#current-position",
+    "href": "Bio.html#current-position",
+    "title": "Zainab",
+    "section": "Current Position",
+    "text": "Current Position\nAssistant Professor, Department of English — KBN University (since Nov 2022)\nRoles & responsibilities - Teaching undergraduate and postgraduate literature & English courses\n- Theory evaluator for BA, BSc, BCom & MA papers\n- Designing group activities to improve writing & speaking skills\n- Event reporting for NAAC / University website, organizing webinars and collegiate events"
+  },
+  {
+    "objectID": "Bio.html#other-academic-responsibilities",
+    "href": "Bio.html#other-academic-responsibilities",
+    "title": "Zainab",
+    "section": "Other Academic Responsibilities",
+    "text": "Other Academic Responsibilities\n\nMember, Board of Studies (BOS)\n\nFounder & Speaker, Podcast Thoughtpod: Literature, Life and Everything in Between\n\nOrganizing Secretary — webinars & workshops (Women’s Day webinar; AMAPSS 2023 coordination; Keats webinar 2023)\n\nCoordinator / Organizing member — Sports & Cultural Fest 2023; BKDDGC – 2024 committee member"
+  },
+  {
+    "objectID": "Bio.html#contact-references",
+    "href": "Bio.html#contact-references",
+    "title": "Zainab",
+    "section": "Contact & References",
+    "text": "Contact & References\nFor full CV and references, see the downloadable CV on the site (PDF). :contentReferenceoaicite:3"
+  },
+  {
+    "objectID": "Teaching.html#courses-taught-ug-pg",
+    "href": "Teaching.html#courses-taught-ug-pg",
+    "title": "Zainab",
+    "section": "",
+    "text": "History of English Literature\n\nElizabethan & Jacobean Drama\n\nWorld Literature\n\nModern Literary Theory\n\nPostcolonial Literature\n\nIndian English Literature in Translation\n\nBusiness Communication Skills\n\nTechnical Writing"
+  },
+  {
+    "objectID": "Teaching.html#teaching-highlights",
+    "href": "Teaching.html#teaching-highlights",
+    "title": "Zainab",
+    "section": "Teaching Highlights",
+    "text": "Teaching Highlights\n\nDesigned syllabi and assessments for multiple levels.\n\nEmphasis on communicative competence, critical reading, and research orientation."
+  },
+  {
+    "objectID": "Project.html#academic-professional-experience",
+    "href": "Project.html#academic-professional-experience",
+    "title": "Zainab",
+    "section": "",
+    "text": "Assistant Professor, Dept. of English — KBN University (Nov 2022 — present)\nPart-time Content Writer, Hybritic Pvt Ltd (Jan 2024 — May 2024) — wrote web content and informational pages.\nSubject Matter Expert, SandSpace Technologies (June 2020 — Jan 2022) — research writing, academic content development, global team coordination."
+  },
+  {
+    "objectID": "Project.html#selected-projects",
+    "href": "Project.html#selected-projects",
+    "title": "Zainab",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nPodcast: Thoughtpod: Literature, Life and Everything in Between — Founder & Speaker (weekly).\n\nOrganized and contributed to interdisciplinary workshops and conferences (AMAPSS 2023; BKDDGC 2024)."
+  },
+  {
+    "objectID": "Conference.html#conferences-seminars-webinars-selected",
+    "href": "Conference.html#conferences-seminars-webinars-selected",
+    "title": "Zainab",
+    "section": "Conferences, Seminars & Webinars (Selected)",
+    "text": "Conferences, Seminars & Webinars (Selected)\n\nA Postcolonial Study of Kiran Desai’s The Inheritance of Loss — Two-Day Kalyan Karnataka National Seminar, Gulbarga University (18 Feb 2025).\nLiving in Third Space: Diasporic Identity in Monika Ali’s Brick Lane — Two-Day International Conference on Literature, Society & Global Media, Jain University (14 Sep 2024).\n(Now also updated as a standalone research paper presented in Oct 2025 above.)\nTeacher Training Workshop (Royal Society of Chemistry, 2023).\n\nOne-Week FDP on AI and Language Teaching (SRM Institute).\n\nNational & state-level webinars on research methodology, novel studies, and theatre pedagogy."
+  },
+  {
+    "objectID": "Conference.html#m.a.-dissertations-guided-selected",
+    "href": "Conference.html#m.a.-dissertations-guided-selected",
+    "title": "Zainab",
+    "section": "M.A. Dissertations Guided (Selected)",
+    "text": "M.A. Dissertations Guided (Selected)\n\nFrom Denial to Acceptance: A Study of The Death of Ivan Ilyich (Muskan, M.A., 2025)\n\nExploring Women’s Identity and Racism in Toni Morrison’s The Bluest Eye (Shabra Zareen, M.A., 2024)\n\nReflections on Cultural Hybridity (Nikhat Parveen, M.A., 2024)\n\nDecentralization of Igbo Society in Things Fall Apart (Zainab Sultana, M.A., 2023)"
+  },
+  {
+    "objectID": "Conference.html#other-activities-achievements",
+    "href": "Conference.html#other-activities-achievements",
+    "title": "Zainab",
+    "section": "Other Activities & Achievements",
+    "text": "Other Activities & Achievements\n\nFirst Prize — Essay Writing (World Mental Health Day, Oct 2024)\n\nFirst Prize — Essay Writing (Hindi Diwas, Sep 2024)\n\nFounder — Poetry Recitation Club at KBNU"
+  },
+  {
+    "objectID": "Conference.html#research-paper-2025",
+    "href": "Conference.html#research-paper-2025",
+    "title": "Zainab",
+    "section": "",
+    "text": "Living in Third Space: A Study of Diasporic Identity in Monika Ali’s Brick Lane — Presented in October 2025."
+  }
+]

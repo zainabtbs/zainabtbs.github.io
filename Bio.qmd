@@ -1,0 +1,67 @@
+---
+title: ""
+format: html
+---
+
+::: columns
+::: column
+![Zainab](/files/img4.jpeg){fig-alt="Zainab" width="180px"}
+
+**Zainab**  
+Assistant Professor  
+Giridih, Jharkhand  
++91-7779977821 (WA)  
+zainab@kbn.university · zainabtbs@gmail.com
+:::
+::: column
+## Objective
+
+To follow one of the noblest professions of teaching. Teaching is a continuous learning process in order to impart knowledge to students. I am an aspiring researcher and writer with interests in Diasporic Identity, Postcolonial Studies, Cultural Studies and Gender Studies.
+
+## Expertise & Skills
+- Teaching, Research, Academic Writing  
+- MS Word, MS Excel, MS PowerPoint, DCA
+
+## Languages
+- English, Hindi, Urdu, Arabic (reading)
+
+## Interests
+- Reading (Fiction & Non-Fiction), Writing, Sports
+:::
+:::
+
+---
+
+## Education
+
+- **GATE (Qualified)** — *English Literature*  
+- **M.A. in English Literature**, St. Xavier’s College, Ranchi University (2017–2019)  
+- **B.A. in English Literature**, R.K. Women’s College, VBU University (2014–2017)  
+- **Intermediate (Science)**, J.M. College, JAC Board (2012–2014)  
+- **Matriculation**, DAV Public School, NTS Barkakana, CBSE (2012)
+
+---
+
+## Current Position
+
+**Assistant Professor**, Department of English — KBN University (since Nov 2022)
+
+**Roles & responsibilities**
+- Teaching undergraduate and postgraduate literature & English courses  
+- Theory evaluator for BA, BSc, BCom & MA papers  
+- Designing group activities to improve writing & speaking skills  
+- Event reporting for NAAC / University website, organizing webinars and collegiate events
+
+---
+
+## Other Academic Responsibilities
+- Member, Board of Studies (BOS)  
+- Founder & Speaker, Podcast *Thoughtpod: Literature, Life and Everything in Between*  
+- Organizing Secretary — webinars & workshops (Women’s Day webinar; AMAPSS 2023 coordination; Keats webinar 2023)  
+- Coordinator / Organizing member — Sports & Cultural Fest 2023; BKDDGC – 2024 committee member
+
+---
+
+## Contact & References
+
+For full CV and references, see the downloadable CV on the site (PDF). :contentReference[oaicite:3]{index=3}

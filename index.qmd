@@ -1,0 +1,75 @@
+---
+title: ""
+format: html
+image: files/zainab.jpeg
+about:
+  template: marquee
+  image-width: 34em
+  image-shape: rounded
+
+  links:
+    - icon: github
+      href: https://github.com/Zainabtbs
+    - icon: linkedin
+      href: https://www.linkedin.com/in/zainab-2452191b4/
+    - icon: envelope
+      href: mailto:zainabtbs@gmail.com
+---
+
+<h3 style="font-family:Poppins, sans-serif; color:#93c4fd; margin-top:0;">Assistent Professor at 
+  <a href="https://www.kbn.university/" target="_blank" rel="noopener" style="color:#60a5fa; text-decoration:none;">
+    **KBN University.**
+  </a>
+</h3>
+
+<!-- News Section -->
+<section style="font-family:Poppins, sans-serif; margin-top:2em;">
+  <h2 style="color:#60a5fa; border-bottom:2px solid #60a5fa; display:inline-block; padding-bottom:8px;">
+    📰 News & Updates
+  </h2>
+
+  <!-- News List with fade-in animation -->
+  <ul style="list-style-type:none; padding-left:0; margin-top:1em;">
+      <li class="news-item">
+      <strong>Nov 2025:</strong> Taught “Communicative English and Academic Writing Skills”   <strong>(Certified Course)</strong>.
+    </li>
+    <li class="news-item">
+      <strong>Nov 2025:</strong> Organizing Member – Student Induction Programme (SIP) for  <strong>MA Students</strong>.
+    </li>
+    <li class="news-item">
+      <strong>Oct 2025:</strong>Published a paper: Living in Third Space: A Study of Diasporic Identity
+in Monika Ali’s Brick Lane.
+    </li>
+  </ul>
+</section>
+
+<!-- CSS for fade-in effect -->
+<style>
+  .news-item {
+    opacity: 0;
+    animation: fadeInUp 1s ease-out forwards;
+  }
+
+  .news-item:nth-child(1) {
+    animation-delay: 1.5s;
+  }
+
+  .news-item:nth-child(2) {
+    animation-delay: 2.5s;
+  }
+
+  .news-item:nth-child(3) {
+    animation-delay: 3.5s;
+  }
+
+  @keyframes fadeInUp {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    from {
+      opacity: 0;
+      transform: translateY(50px);
+    }
+  }
+</style>

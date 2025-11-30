@@ -1,0 +1,28 @@
+---
+title: ""
+format: html
+---
+
+
+
+Welcome to my gallery! Here are some highlights from my research, projects, and conferences.
+
+### Fun with Friends
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="files/img1.jpeg" alt="fun_with_pablo" style="width: 100%; max-width: 900px; height: auto;" />
+</div>
+
+### kbn
+<div style="text-align: center;">
+  <img src="files/img3.jpeg" alt="Conference icip25" style="width: 100%; max-width: 900px; height: auto;" />
+</div>
+
+
+### kbn
+<div style="text-align: center;">
+  <img src="files/img2.jpeg" alt="Conference icip25" style="width: 100%; max-width: 900px; height: auto;" />
+</div>
+
+
+---
