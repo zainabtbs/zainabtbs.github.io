@@ -14,8 +14,6 @@ format: html
 - *A Postcolonial Study of Kiran Desai’s **The Inheritance of Loss*** — Two-Day Kalyan Karnataka National Seminar, Gulbarga University (18 Feb 2025).
 
 - *Living in Third Space: Diasporic Identity in Monika Ali’s **Brick Lane*** — Two-Day International Conference on Literature, Society & Global Media, Jain University (14 Sep 2024).  
-  *(Now also updated as a standalone research paper presented in Oct 2025 above.)*
-
 - Teacher Training Workshop (Royal Society of Chemistry, 2023).  
 - One-Week FDP on AI and Language Teaching (SRM Institute).  
 - National & state-level webinars on research methodology, novel studies, and theatre pedagogy.
