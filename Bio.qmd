@@ -5,9 +5,8 @@ format: html
 
 ::: columns
 ::: column
-![Zainab](/files/img4.jpeg){fig-alt="Zainab" width="180px"}
+![](/files/img4.jpeg){fig-alt="Zainab" width="180px"}
 
-**Zainab**  
 Assistant Professor  
 KBN University, Kalaburagi
 Karnataka,India   
