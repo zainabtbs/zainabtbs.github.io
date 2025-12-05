@@ -8,7 +8,7 @@ format: html
 ![](/files/img4.jpeg){fig-alt="Zainab" width="180px"}
 
 Assistant Professor  
-KBN University, Kalaburagi
+KBN University,
 Karnataka,India   
 zainab@kbn.university 
 :::
